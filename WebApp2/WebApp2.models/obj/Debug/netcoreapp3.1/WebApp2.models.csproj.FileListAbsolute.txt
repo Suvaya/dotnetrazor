@@ -8,3 +8,13 @@ D:\dotnet\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.Assembly
 D:\dotnet\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.csproj.CoreCompileInputs.cache
 D:\dotnet\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.dll
 D:\dotnet\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.pdb
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\bin\Debug\netcoreapp3.1\WebApp2.models.deps.json
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\bin\Debug\netcoreapp3.1\WebApp2.models.dll
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\bin\Debug\netcoreapp3.1\WebApp2.models.pdb
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.csproj.AssemblyReference.cache
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.AssemblyInfoInputs.cache
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.AssemblyInfo.cs
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.csproj.CoreCompileInputs.cache
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.dll
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.models\obj\Debug\netcoreapp3.1\WebApp2.models.pdb

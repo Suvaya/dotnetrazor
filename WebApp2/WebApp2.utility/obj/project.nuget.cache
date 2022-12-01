@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sd0wqNBFfIdxOgfCZo2SvJ+9pgU67nJ9agwaAViNBzeTL5iGe7p0LcfYbPtroB+hjyFmUzkSXhtHYCQibiVF0Q==",
+  "dgSpecHash": "/GMxUu+tbkweu8DqwFRGMS7Fj7TdUIipqsqa0GnXh4xkOOm7Q4p5TiafZ1cv5BTl283pWeMv9KMidSO2Rfe4QQ==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj",
+  "projectFilePath": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

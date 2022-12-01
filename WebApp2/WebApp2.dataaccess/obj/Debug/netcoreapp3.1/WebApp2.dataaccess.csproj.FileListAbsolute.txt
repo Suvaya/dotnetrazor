@@ -13,3 +13,10 @@ D:\dotnet\WebApp2\WebApp2.dataaccess\bin\Debug\netcoreapp3.1\WebApp2.utility.dll
 D:\dotnet\WebApp2\WebApp2.dataaccess\bin\Debug\netcoreapp3.1\WebApp2.models.pdb
 D:\dotnet\WebApp2\WebApp2.dataaccess\bin\Debug\netcoreapp3.1\WebApp2.utility.pdb
 D:\dotnet\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.csproj.CopyComplete
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.dll
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.pdb
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.csproj.AssemblyReference.cache
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.AssemblyInfoInputs.cache
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.AssemblyInfo.cs
+D:\dotnet_tutorial\suvaya\dotnetrazor\WebApp2\WebApp2.dataaccess\obj\Debug\netcoreapp3.1\WebApp2.dataaccess.csproj.CoreCompileInputs.cache

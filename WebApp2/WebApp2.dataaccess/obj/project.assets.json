@@ -6939,19 +6939,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\legioncp\\.nuget\\packages\\": {}
+    "C:\\Users\\grgro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\WebApp2\\WebApp2.dataaccess\\WebApp2.dataaccess.csproj",
+      "projectUniqueName": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.dataaccess\\WebApp2.dataaccess.csproj",
       "projectName": "WebApp2.dataaccess",
-      "projectPath": "D:\\dotnet\\WebApp2\\WebApp2.dataaccess\\WebApp2.dataaccess.csproj",
-      "packagesPath": "C:\\Users\\legioncp\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\WebApp2\\WebApp2.dataaccess\\obj\\",
+      "projectPath": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.dataaccess\\WebApp2.dataaccess.csproj",
+      "packagesPath": "C:\\Users\\grgro\\.nuget\\packages\\",
+      "outputPath": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.dataaccess\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\legioncp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\grgro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6965,11 +6970,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\dotnet\\WebApp2\\WebApp2.models\\WebApp2.models.csproj": {
-              "projectPath": "D:\\dotnet\\WebApp2\\WebApp2.models\\WebApp2.models.csproj"
+            "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.models\\WebApp2.models.csproj": {
+              "projectPath": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.models\\WebApp2.models.csproj"
             },
-            "D:\\dotnet\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj": {
-              "projectPath": "D:\\dotnet\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj"
+            "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj": {
+              "projectPath": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj"
             }
           }
         }

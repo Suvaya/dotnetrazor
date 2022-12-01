@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApp2",
+    "\\WebApp2.dataaccess",
+    "\\WebApp2.dataaccess\\Data",
+    "\\WebApp2.dataaccess\\obj",
+    "\\WebApp2.dataaccess\\obj\\Release",
+    "\\WebApp2.utility",
+    "\\WebApp2\\Properties",
+    "\\WebApp2\\Views",
+    "\\WebApp2\\wwwroot"
+  ],
+  "SelectedNode": "\\WebApp2.sln",
+  "PreviewInSolutionExplorer": false
+}

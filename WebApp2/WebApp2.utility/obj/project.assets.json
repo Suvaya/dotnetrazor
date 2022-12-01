@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\legioncp\\.nuget\\packages\\": {}
+    "C:\\Users\\grgro\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj",
+      "projectUniqueName": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj",
       "projectName": "WebApp2.utility",
-      "projectPath": "D:\\dotnet\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj",
-      "packagesPath": "C:\\Users\\legioncp\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\WebApp2\\WebApp2.utility\\obj\\",
+      "projectPath": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.utility\\WebApp2.utility.csproj",
+      "packagesPath": "C:\\Users\\grgro\\.nuget\\packages\\",
+      "outputPath": "D:\\dotnet_tutorial\\suvaya\\dotnetrazor\\WebApp2\\WebApp2.utility\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\legioncp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\grgro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
