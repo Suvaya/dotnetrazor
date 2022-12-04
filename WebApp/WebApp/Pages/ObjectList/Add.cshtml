@@ -1,0 +1,56 @@
+﻿@page
+@model WebApp.Pages.ObjectList.AddModel
+@{
+	ViewData["Title"] = "Add";
+}
+
+<br />
+
+<h2  class="text-info">Add New Item</h2><br /> 
+
+<div class="border container" style=" padding: 30px;">
+	<form method="post">
+		<div class="text-danger" asp-validation-summary="ModelOnly">
+
+		</div>
+		<div class="form-group row">
+			<div class="col-3">
+				<label asp-for="Item.Name"></label>
+			</div>
+			<div class="col-6">
+				<input asp-for = "Item.Name" class="form-control" />
+			</div>
+			<span asp-validation-for="Item.Name" class="text-danger"></span>
+		</div>
+		<div class="form-group row">
+			<div class="col-3">
+				<label asp-for="Item.Dealer"></label>
+			</div>
+			<div class="col-6">
+				<input asp-for = "Item.Dealer" class="form-control" />
+			</div>
+			<span asp-validation-for="Item.Dealer" class="text-danger"></span>
+		</div>
+		<div class="form-group row">
+			<div class="col-3">
+				<label asp-for="Item.ISO"></label>
+			</div>
+			<div class="col-6">
+				<input asp-for = "Item.ISO" class="form-control" />
+			</div>
+			<span asp-validation-for="Item.ISO" class="text-danger"></span>
+		</div>
+		<div class="form-group row">
+			<div class="col-3 offset-3">
+				<input type="submit" value="Add" class="btn btn-primary form-control"/>
+			</div>
+			<div class="col-3">
+				<a asp-page ="Index" class="btn btn-success form-control">Back to List</a>
+			</div>
+		</div>
+	</form>
+</div>
+
+@section Scripts{
+	<partial name="_ValidationScriptsPartial" />
+}

@@ -5349,11 +5349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\WebApp\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "F:\\dotnetrazor\\WebApp\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "D:\\dotnet\\WebApp\\WebApp\\WebApp.csproj",
+      "projectPath": "F:\\dotnetrazor\\WebApp\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\legioncp\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\WebApp\\WebApp\\obj\\",
+      "outputPath": "F:\\dotnetrazor\\WebApp\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\legioncp\\AppData\\Roaming\\NuGet\\NuGet.Config",

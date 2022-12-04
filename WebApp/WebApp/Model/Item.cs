@@ -14,5 +14,7 @@ namespace WebApp.Model
 
         public string Dealer { get; set; }
 
+        public string ISO { get; set; }
+
     }
 }
